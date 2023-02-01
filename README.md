@@ -2,7 +2,6 @@
 <img src="https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_960_720.jpg" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">주요 활동</div>  
   
 
@@ -71,4 +70,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
