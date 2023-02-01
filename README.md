@@ -33,7 +33,7 @@
 <br/>  
 
 
-### <div align="center"><h2></h2></div>  
+### <div align="center"><h2>기술 스택 </h2></div>  
 <table>
   <tr>
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216065997-001c49dd-d686-4e07-8c74-45a4234d3cb1.PNG" /></td>
