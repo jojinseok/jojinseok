@@ -34,7 +34,11 @@
 
 
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
+<img width="202" alt="4343" src="https://user-images.githubusercontent.com/82083624/216065997-001c49dd-d686-4e07-8c74-45a4234d3cb1.PNG">
+
+<img width="165" alt="43" src="https://user-images.githubusercontent.com/82083624/216066022-6e00ebe8-b026-4c97-a3c1-6f8c0d3cdae7.PNG">
 
 <div align="center">  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
