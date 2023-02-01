@@ -1,6 +1,6 @@
 <div align="center">
-</div>  ![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215959975-529c70e2-f9ec-42d6-a940-7a6a0368b22b.jpg)
-
+  ![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215960186-65dab545-ea11-4524-9285-d8e49c1ec9c5.jpg)
+</div> 
   
 ### <div align="center">주요 활동</div>  
   
