@@ -3,7 +3,7 @@
 <div align="center">
 </div> 
 
-### <div align="center">주요 활동</div>  
+### <div align="center"><h2>주요 활동</h2></div>  
   
 
 - 2022.12~2023.02 - IOT 빅데이터 응용 교육 <과학기술정보통신부>  
