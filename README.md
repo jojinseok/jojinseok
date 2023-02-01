@@ -37,9 +37,11 @@
 <table>
   <tr>
  
-    <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216065997-001c49dd-d686-4e07-8c74-45a4234d3cb1.PNG"/><p>gdgdgd</p> </td><td><img width="165" alt="" src="https://user-images.githubusercontent.com/82083624/216066022-6e00ebe8-b026-4c97-a3c1-6f8c0d3cdae7.PNG" /> </td><td><img alt="" src="" /></td>
+    <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216065997-001c49dd-d686-4e07-8c74-45a4234d3cb1.PNG"/> </td>
+    <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216066022-6e00ebe8-b026-4c97-a3c1-6f8c0d3cdae7.PNG" /> </td>
+    <td><img alt="" src="" /></td>
   
-  <tr>
+  </tr>
 </table>
 
 <img  src="">
