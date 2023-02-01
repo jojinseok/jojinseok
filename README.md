@@ -1,9 +1,8 @@
 ![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215960670-a2b71ca8-e76d-407c-bca3-3936a60a6c70.jpg)
 
 <div align="center">
-<img src="![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215960252-a302af0a-71a8-4de3-9b90-6d96986fcdbe.jpg)">
 </div> 
-  
+
 ### <div align="center">주요 활동</div>  
   
 
