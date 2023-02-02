@@ -50,11 +50,11 @@
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074365-3b5f2dd3-ecb8-41de-bbbc-2cd6ea9c8aee.PNG" /></td>
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074346-f1e43213-e551-4fac-ba92-d480b18da577.PNG" /></td>
   
-  <tr>
+  </tr>
 </table>
   
-
-     <table>
+### <div align="center"></div>  
+<table>
   <tr>
       <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074380-0cbee125-e441-49e6-96d5-8f33e0f3880a.PNG" /></td>
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074365-3b5f2dd3-ecb8-41de-bbbc-2cd6ea9c8aee.PNG" /></td>
@@ -63,7 +63,7 @@
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074365-3b5f2dd3-ecb8-41de-bbbc-2cd6ea9c8aee.PNG" /></td>
     <td><img width="202" alt="" src="https://user-images.githubusercontent.com/82083624/216074346-f1e43213-e551-4fac-ba92-d480b18da577.PNG" /></td>
   
-  <tr>
+  </tr>
 </table>
   ![ora](https://user-images.githubusercontent.com/82083624/216216081-c95038de-9091-4e97-afc4-ee64e0e21418.PNG)
 
