@@ -1,5 +1,6 @@
 ![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215960670-a2b71ca8-e76d-407c-bca3-3936a60a6c70.jpg)
-
+<img width="1000" height="800" alt="" src="https://user-images.githubusercontent.com/82083624/215960670-a2b71ca8-e76d-407c-bca3-3936a60a6c70.jpg" />
+  
 <div align="center">
 </div> 
 
