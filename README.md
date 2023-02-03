@@ -1,4 +1,4 @@
-![computer-4795762_960_720](https://user-images.githubusercontent.com/82083624/215960670-a2b71ca8-e76d-407c-bca3-3936a60a6c70.jpg)
+<img src="https://user-images.githubusercontent.com/82083624/216512223-7c914b7a-45b4-4c26-a399-1dccc1d59cd8.PNG">
 
 ### <div align="center"><h2>기술 스택 </h2></div>  
 <table>
