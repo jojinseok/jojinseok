@@ -77,6 +77,6 @@
 
 - 코로나 19 현황 앱 <Android Studio(Java), Firebase> <a href="https://github.com/wjdalsgud/CoronaVirus19Status-App">[바로가기]</a> <br>
 
-- PC방 예약 관리 프로그램 <Eclipse, OracleDB> <a href="https://github.com/jojinseok/Minhyung">[바로가기]</a> <br>
+- PC방 예약 관리 프로그램 <Eclipse(Java), OracleDB> <a href="https://github.com/jojinseok/Minhyung">[바로가기]</a> <br>
 
-- TCP 소켓 통신 <Eclipse> <a href="https://github.com/jojinseok/Network_TCP">[바로가기]</a> <br>
+- TCP 소켓 통신 <Eclipse(Java)> <a href="https://github.com/jojinseok/Network_TCP">[바로가기]</a> <br>
