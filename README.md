@@ -76,8 +76,7 @@
 <br />
 
 
-### <div align="center"><h2>프로젝트 & 공부</h2></div>  
-<br>
+### <div align="center"><h2>프로젝트</h2></div>  
 
 - 쇼핑몰 웹 <a href="https://github.com/jojinseok/Shopping-Mall-Spring-">[바로가기]</a> <br>
 
