@@ -65,17 +65,6 @@
 
 - 2021.03 ~ 2021.06 - 사제동행 멘토 활동 (C, JAVA 지도) <선문대학교>  
   
-
-<br/>  
-
-
-
-<br/>  
-
-
-<br />
-
-
 ### <div align="center"><h2>프로젝트</h2></div>  
 
 - 쇼핑몰 웹 <a href="https://github.com/jojinseok/Shopping-Mall-Spring-">[바로가기]</a> <br>
