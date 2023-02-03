@@ -79,10 +79,11 @@
 
 
 ### <div align="center"><h2>프로젝트 & 공부</h2></div>  
-쇼핑몰 웹 <a href="https://github.com/jojinseok/Shopping-Mall-Spring-">[바로가기]</a>
-게시판 웹 <a href="https://github.com/jojinseok/WebProject">[바로가기]</a>
-도착알림 앱 <a href="https://github.com/jojinseok/ArrivalNotification">[바로가기]</a>
-편의시설 기반 충전소 추천 앱 <a href="https://github.com/wjdalsgud/Electronic-GPS-System">[바로가기]</a>
-코로나 19 현황 앱 <a href="https://github.com/wjdalsgud/CoronaVirus19Status-App">[바로가기]</a>
-PC방 예약 관리 프로그램 <a href="https://github.com/jojinseok/Minhyung">[바로가기]</a>
-TCP 소켓 통신 <a href="https://github.com/jojinseok/Network_TCP">[바로가기]</a>
+<br>
+- 쇼핑몰 웹 <a href="https://github.com/jojinseok/Shopping-Mall-Spring-">[바로가기]</a> <br>
+- 게시판 웹 <a href="https://github.com/jojinseok/WebProject">[바로가기]</a> <br>
+- 도착알림 앱 <a href="https://github.com/jojinseok/ArrivalNotification">[바로가기]</a> <br>
+- 편의시설 기반 충전소 추천 앱 <a href="https://github.com/wjdalsgud/Electronic-GPS-System">[바로가기]</a> <br>
+- 코로나 19 현황 앱 <a href="https://github.com/wjdalsgud/CoronaVirus19Status-App">[바로가기]</a> <br>
+- PC방 예약 관리 프로그램 <a href="https://github.com/jojinseok/Minhyung">[바로가기]</a> <br>
+- TCP 소켓 통신 <a href="https://github.com/jojinseok/Network_TCP">[바로가기]</a> <br>
