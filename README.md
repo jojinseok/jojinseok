@@ -67,7 +67,7 @@
   
 ### <div align="center"><h2>프로젝트</h2></div>  
 
-- <h3>금고 보안 시스템</h3> <h4><Spring, MariaDB></h4> <a href="https://github.com/jojinseok/Security_System">[바로가기]</a> <br>
+- <h4>금고 보안 시스템 <Spring, MariaDB></h4> <a href="https://github.com/jojinseok/Security_System">[바로가기]</a> <br>
 
 - 쇼핑몰 웹 <Spring, MySQL> <a href="https://github.com/jojinseok/Shopping-Mall-Spring-">[바로가기]</a> <br>
 
